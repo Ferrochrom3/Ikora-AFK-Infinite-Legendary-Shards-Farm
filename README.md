@@ -16,3 +16,7 @@ x and y pos: 1856, 364 (Helmet)
 x and y pos: 1856, 527 (Gaunlets)
 x and y pos: 1856, 690 (Chest)
 x and y pos: 1856, 853 (Leg)
+
+Required Library Installs: 
+pip install pyautogui
+pip install keyboard
