@@ -9,7 +9,7 @@ x and y pos: 1392, 518 (Chest)
 x and y pos: 1392, 642 (Leg)
 
 2560x1440
-adjustment_valu: 156
+adjustment_value: 156
 ikora_x_pos: 1541
 ikora_y_pos: 1006
 x and y posn: 1856, 364 (Helmet)
